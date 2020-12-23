@@ -1,0 +1,6 @@
+/home/ezequiel/Documents/Carrera/Algo_II/Labo/L05/alumnos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ezequiel/Documents/Carrera/Algo_II/Labo/L05/alumnos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ezequiel/Documents/Carrera/Algo_II/Labo/L05/alumnos/cmake-build-debug/CMakeFiles/gtest.dir
+/home/ezequiel/Documents/Carrera/Algo_II/Labo/L05/alumnos/cmake-build-debug/CMakeFiles/correrTests.dir
+/home/ezequiel/Documents/Carrera/Algo_II/Labo/L05/alumnos/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home/ezequiel/Documents/Carrera/Algo_II/Labo/L05/alumnos/cmake-build-debug/CMakeFiles/correrValgrind.dir
